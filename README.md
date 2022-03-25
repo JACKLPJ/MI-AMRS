@@ -1,1 +1,1 @@
-MI-AMRS is an AutoML software based on meta-learning. To use it, you need to download both 'Software' and 'Databases' which MI-AMRS based on. You need to put all the 'Software' files in your experiment environment. The examples for user guide are provided in 'Examples.ipynb'.
+MI-AMRS is an AutoML software based on meta-learning. To use it, you need to download both 'Software' and 'Databases' which MI-AMRS is based on. You need to put the 'Software' in your experiment environment. The examples for user guide are provided in 'Examples.ipynb'.
